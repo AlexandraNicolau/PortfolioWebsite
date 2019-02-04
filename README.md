@@ -2,7 +2,7 @@
 
 This is a simple example of my first portfolio website.
 
-## Contents
+## Contents 
 
 1. About
 2. General Info
